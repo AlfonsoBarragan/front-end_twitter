@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/front-end_twitter/static/css/main.d6b66a2a.chunk.css",
+    "main.js": "/front-end_twitter/static/js/main.fdca8886.chunk.js",
+    "main.js.map": "/front-end_twitter/static/js/main.fdca8886.chunk.js.map",
+    "runtime-main.js": "/front-end_twitter/static/js/runtime-main.eca65dad.js",
+    "runtime-main.js.map": "/front-end_twitter/static/js/runtime-main.eca65dad.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/front-end_twitter/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b41e314f.chunk.js": "/front-end_twitter/static/js/2.b41e314f.chunk.js",
+    "static/js/2.b41e314f.chunk.js.map": "/front-end_twitter/static/js/2.b41e314f.chunk.js.map",
+    "static/js/3.968a3982.chunk.js": "/front-end_twitter/static/js/3.968a3982.chunk.js",
+    "static/js/3.968a3982.chunk.js.map": "/front-end_twitter/static/js/3.968a3982.chunk.js.map",
+    "index.html": "/front-end_twitter/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/front-end_twitter/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.d6b66a2a.chunk.css.map": "/front-end_twitter/static/css/main.d6b66a2a.chunk.css.map",
+    "static/js/2.b41e314f.chunk.js.LICENSE.txt": "/front-end_twitter/static/js/2.b41e314f.chunk.js.LICENSE.txt",
+    "static/media/bird.61ae6f85.png": "/front-end_twitter/static/media/bird.61ae6f85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eca65dad.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b41e314f.chunk.js",
+    "static/css/main.d6b66a2a.chunk.css",
+    "static/js/main.fdca8886.chunk.js"
+  ]
+}
