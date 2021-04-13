@@ -11,3 +11,59 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #45526c;
+
+}
+
+ul.navbar li {
+    float: left;
+    padding: 0.7em;
+}
+
+ul.navbar li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.navbar li h4{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul.navbar li img{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: .7em;
+    text-decoration: none;
+    width: 10em;
+}
+
+ul.navbar li a:hover:not(.active) {
+    background-color: #000;
+}
+
+
+ul.navbar li a.active {
+    background-color: #4caf50;
+}
+
+ul.navbar li GoogleLogin {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
